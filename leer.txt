@@ -1,0 +1,7 @@
+1.- Echar un vistazo a la página web: https://axios-http.com/es/docs/intro
+2.- Instalar axios: npm install axios o utilizar la libreria en index.html poniendo https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js
+
+3.- Se está utilizando la api https://developer.themoviedb.org/docs/getting-started
+
+4.- En el index.html	
+    comento el fichero axios.js, se ha utilizado de apoyo para luego componer el app.js
